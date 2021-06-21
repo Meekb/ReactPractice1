@@ -35,6 +35,7 @@ body {
 
   .square:hover {
     background: #8220fb;
+    color:lawngreen;
   }
   
   .square:focus {
@@ -60,15 +61,15 @@ body {
 
   .game-info button {
     background: none;
-    border: 3px solid blue;
+    border: 3px solid black;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 24px;
   }
 
   .game-info button:hover {
-    background-color: blue;
+    background-color: #8220fb;
     color: aquamarine;
-    border: 3px solid #8220fb;
+    border: 3px solid black;
   }
 
   * {
