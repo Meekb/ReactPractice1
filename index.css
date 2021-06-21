@@ -70,4 +70,8 @@ body {
     color: aquamarine;
     border: 3px solid #8220fb;
   }
+
+  * {
+    /* border: 3px solid lawngreen; */
+  }
   
